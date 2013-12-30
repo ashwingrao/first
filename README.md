@@ -6,3 +6,5 @@ This is a test
 This is the third line
 
 Fourth line.
+
+This is a new branch stuff.
