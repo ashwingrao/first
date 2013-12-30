@@ -6,3 +6,5 @@ This is a test
 This is the third line
 
 Fourth line.
+Checking Branching
+Test Branching 2
